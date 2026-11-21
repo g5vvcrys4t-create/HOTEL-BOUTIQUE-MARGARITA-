@@ -1,0 +1,13 @@
+{
+  "name": "margarita-hotel",
+  "version": "1.0.0",
+  "description": "Sitio web de Margarita Hotel Boutique & Fonda (San Luis Potosí)",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "dev": "node dev-server.js"
+  }
+}
